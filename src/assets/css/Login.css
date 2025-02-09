@@ -1,0 +1,13 @@
+.no-border {
+    border: none;
+  }
+  
+  .underline {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #8064A2;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+  }

@@ -1,0 +1,50 @@
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  @media (max-width: 992px) {
+    .navbar-brand {
+      flex: 0 0 60%;
+    }
+  
+    .mobile-icons {
+      flex: 0 0 40%;
+      justify-content: flex-end;
+      display: flex;
+      align-items: center;
+    }
+  
+    .custom-input-width {
+      width: 100%;
+    }
+  
+    .logo {
+      width: 190px; /* Adjust the width as needed */
+      height: auto;
+      position: relative;
+      top: 30px;
+    }
+  
+    .navbar {
+      display: flex;
+      align-items: center;
+    }
+  
+    .navbar-collapse {
+      flex-grow: 1;
+      justify-content: flex-end;
+    }
+    .mobile{
+        position: relative;
+        bottom: 20px;
+    }
+    .mobile img{
+        width: 30px;
+        height: 30px;
+    }
+    .navbartong{
+        bottom: 20px;
+    }
+  }

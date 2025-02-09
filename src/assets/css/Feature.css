@@ -1,0 +1,67 @@
+.card-people {
+    border-color: #00acc1; /* Cyan border for People card */
+  }
+  
+  .card-people:hover {
+    background-color: #8064A2; /* Light cyan for People card */
+    color: white;
+  }
+  
+  .card-people:hover h5,
+  .card-people:hover p,
+  .card-people:hover span,
+  .card-people:hover button {
+    color: white;
+  }
+  
+  .card-place {
+    border-color: #66bb6a; /* Green border for Place card */
+  }
+  
+  .card-place:hover {
+    background-color: #77933C; /* Light green for Place card */
+    color: white;
+  }
+  
+  .card-place:hover h5,
+  .card-place:hover p,
+  .card-place:hover span,
+  .card-place:hover button {
+    color: white;
+  }
+  
+  .card-product {
+    border-color: #ef5350; /* Red border for Product card */
+  }
+  
+  .card-product:hover {
+    background-color: #C0504D; /* Light pink for Product card */
+    color: white;
+  }
+  
+  .card-product:hover h5,
+  .card-product:hover p,
+  .card-product:hover span,
+  .card-product:hover button {
+    color: white;
+  }
+  .card-people:hover img {
+    content: url('../images/Group\ 99.png'); /* Change to the hover image */
+}
+  
+  
+  .card-program {
+    border-color: #42a5f5; /* Blue border for Program card */
+  }
+  
+  .card-program:hover {
+    background-color: #0096C8; /* Light blue for Program card */
+    color: white;
+  }
+  
+  .card-program:hover h5,
+  .card-program:hover p,
+  .card-program:hover span,
+  .card-program:hover button {
+    color: white;
+  }

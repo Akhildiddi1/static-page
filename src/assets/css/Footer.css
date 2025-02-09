@@ -1,0 +1,13 @@
+.footer-link {
+    text-decoration: none;
+    color: inherit; /* Ensure the link color matches the surrounding text */
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline; /* Optional: Add underline on hover */
+  }
+  
+  .social-icon {
+    width: 24px; /* Adjust the size as needed */
+    height: 24px; /* Adjust the size as needed */
+  }

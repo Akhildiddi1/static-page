@@ -1,0 +1,35 @@
+.flex-responsive {
+  display: flex;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.quote-icon {
+  width: 24px; /* Adjust the size as needed */
+  height: 24px; /* Adjust the size as needed */
+}
+
+@media (max-width: 768px) {
+  .flex-responsive {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .audio-container {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .w-60,
+  .w-40 {
+    width: 100%;
+    justify-content: center;
+  }
+}
