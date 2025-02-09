@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Akhildiddi1/static-page/static/css/main.e70764db.css",
-    "main.js": "/Akhildiddi1/static-page/static/js/main.fc0c84cf.js",
-    "static/js/453.e56fec51.chunk.js": "/Akhildiddi1/static-page/static/js/453.e56fec51.chunk.js",
-    "static/media/Group 99.png": "/Akhildiddi1/static-page/static/media/Group 99.6495860a739d785d9ea4.png",
-    "static/media/5793404 1.png": "/Akhildiddi1/static-page/static/media/5793404 1.add1c7b878a530d31bd3.png",
-    "static/media/Ellipse 12.png": "/Akhildiddi1/static-page/static/media/Ellipse 12.fe0699b51d1459736ec0.png",
-    "static/media/HobbyCue Logo.png": "/Akhildiddi1/static-page/static/media/HobbyCue Logo.50fac6fd15e983095baf.png",
-    "index.html": "/Akhildiddi1/static-page/index.html",
-    "main.e70764db.css.map": "/Akhildiddi1/static-page/static/css/main.e70764db.css.map",
-    "main.fc0c84cf.js.map": "/Akhildiddi1/static-page/static/js/main.fc0c84cf.js.map",
-    "453.e56fec51.chunk.js.map": "/Akhildiddi1/static-page/static/js/453.e56fec51.chunk.js.map"
+    "main.css": "/static-page/static/css/main.e70764db.css",
+    "main.js": "/static-page/static/js/main.1a3efe73.js",
+    "static/js/453.e56fec51.chunk.js": "/static-page/static/js/453.e56fec51.chunk.js",
+    "static/media/Group 99.png": "/static-page/static/media/Group 99.6495860a739d785d9ea4.png",
+    "static/media/5793404 1.png": "/static-page/static/media/5793404 1.add1c7b878a530d31bd3.png",
+    "static/media/Ellipse 12.png": "/static-page/static/media/Ellipse 12.fe0699b51d1459736ec0.png",
+    "static/media/HobbyCue Logo.png": "/static-page/static/media/HobbyCue Logo.50fac6fd15e983095baf.png",
+    "index.html": "/static-page/index.html",
+    "main.e70764db.css.map": "/static-page/static/css/main.e70764db.css.map",
+    "main.1a3efe73.js.map": "/static-page/static/js/main.1a3efe73.js.map",
+    "453.e56fec51.chunk.js.map": "/static-page/static/js/453.e56fec51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e70764db.css",
-    "static/js/main.fc0c84cf.js"
+    "static/js/main.1a3efe73.js"
   ]
 }
